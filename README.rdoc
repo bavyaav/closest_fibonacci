@@ -1,6 +1,6 @@
 = closest_fibo
 
-Description goes here.
+This gem gives you the highest number lower than the given input , after generating a fibonacci sequence with the given input as the limit. The class is written as a user defined function for the Fixnum class
 
 == Contributing to closest_fibo
  
